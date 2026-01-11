@@ -76,3 +76,5 @@ Unlike Discord or Slack, TeamCollab includes **custom AI models fine-tuned for y
 | AI & ML         | PyTorch, HuggingFace, Custom Fine-Tuned Models |
 | Search / Memory | Weaviate / pgvector                            |
 | Deployment      | Docker, Docker Compose, Optional Kubernetes    |
+
+sky is the future
